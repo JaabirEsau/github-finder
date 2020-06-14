@@ -8,7 +8,7 @@ import {
   CLEAR_USERS,
   GET_USER,
   GET_REPOS,
-} from "./types";
+} from "../types";
 
 const GithubState = (props) => {
   const initialState = {
